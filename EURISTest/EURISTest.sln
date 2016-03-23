@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EURISTest", "EURISTest\EURISTest.csproj", "{63CB26D4-109B-4F10-84FA-0BEDCE603B5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EURIS.Service", "EURIS.Service\EURIS.Service.csproj", "{5720121D-B455-48BB-A6BE-1EEE68A2A029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EURIS.Entities", "EURIS.Entities\EURIS.Entities.csproj", "{24683057-6E21-4762-AB8C-0F770187E0F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63CB26D4-109B-4F10-84FA-0BEDCE603B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CB26D4-109B-4F10-84FA-0BEDCE603B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CB26D4-109B-4F10-84FA-0BEDCE603B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CB26D4-109B-4F10-84FA-0BEDCE603B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5720121D-B455-48BB-A6BE-1EEE68A2A029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5720121D-B455-48BB-A6BE-1EEE68A2A029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5720121D-B455-48BB-A6BE-1EEE68A2A029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5720121D-B455-48BB-A6BE-1EEE68A2A029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24683057-6E21-4762-AB8C-0F770187E0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24683057-6E21-4762-AB8C-0F770187E0F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24683057-6E21-4762-AB8C-0F770187E0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24683057-6E21-4762-AB8C-0F770187E0F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
